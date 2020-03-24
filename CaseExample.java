@@ -22,6 +22,7 @@ public class CaseExample {
                 default:
                     System.out.println("Не подошло ничего");
             }
+            //Я только что отредактировал этот файл на github
         }
     }
 }
